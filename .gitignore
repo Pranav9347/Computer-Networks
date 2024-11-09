@@ -47,5 +47,5 @@ byte_stuffing
 .log
 .gz
 .toc
-CN_project/
+Network_Simulators/ns-3-dev-git/
 
