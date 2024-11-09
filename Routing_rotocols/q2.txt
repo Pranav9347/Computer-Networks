@@ -1,0 +1,11 @@
+
+Question 2) Write a C program to simulate Link State Routing in a 4-node network using Dijkstra's algorithm.
+The network topology is represented by the following matrix, where each value indicates the link cost between nodes (with "INF" representing no direct link).
+   A B C  D
+A  0 1 4 INF
+B  1 0 2  6
+C  4 2 0  3
+D INF 6 3 0
+
+1. Display the shortest path and the corresponding path cost from each node to
+every other node.

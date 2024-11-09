@@ -1,0 +1,12 @@
+
+Assignment 10:
+- Distance Vector and Link State Routing Protocols
+Question 1) Write a C program to simulate the Distance Vector Routing process for a simple network topology with 4 nodes. The initial topology matrix has been provided below (with "INF" representing no direct link).
+   A B C D
+A  0 1 4 INF
+B  1 0 2 6
+C  4 2 0 3
+D INF 6 3 0
+
+1. Each node should periodically share its distance vector with its direct neighbors, and update its vector using the Bellman-Ford algorithm.
+2. Continue updating each node's table until all distance vectors converge and display the updated routing tables at each step until convergence.
