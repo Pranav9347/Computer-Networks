@@ -1,0 +1,26 @@
+send_file.txt
+1) network topology 
+2)network communication
+3)network models
+4) osi model
+5) tcp/ip protocol
+6)protocol and it standards
+7)addressing I) physical
+	    II)logical
+	iii) port and iv)specific address
+8)transmission impairment
+9) frequency and bandwidth 
+10) bandwidth utilization
+11)linecoding  and characteristic ,types
+12)multiplexing and its types
+13)multilevel multiplexing
+14)tranmssion media
+15)switching 
+16)structures of switch
+17)error detection
+18)data link layer
+19) flow control
+20) error control
+21)media access control
+
+
